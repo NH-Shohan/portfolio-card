@@ -7,9 +7,7 @@ import { MdAutoGraph } from "react-icons/md";
 const Hero = () => {
   return (
     <>
-      <div className="bg-background p-4 rounded-3xl mt-5 space-y-7 relative">
-        <div className="h-[150px] w-[150px] bg-[#69696980] rounded-full absolute top-36 blur-3xl -z-10"></div>
-
+      <div className="bg-background p-4 rounded-3xl mt-5 space-y-7">
         <div className="flex items-start justify-between">
           <Image
             src={"/image.png"}
