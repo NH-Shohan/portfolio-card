@@ -47,8 +47,8 @@ const Hero = () => {
         </div>
 
         <div>
-          <p className="text-white">Why is Shohan?</p>
-          <p className="text-sm text-justify">
+          <p className="text-white">Who is Shohan?</p>
+          <p className="text-sm">
             {
               "A professional web developer specializing in creating unique, responsive websites tailored to your needs. Let's work together to build a website that stands out from the crowd."
             }
