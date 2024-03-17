@@ -11,6 +11,15 @@ const experiences = [
       "As a pioneering digital transformation partner, they are specialize in reshaping businesses through innovative technologies, fostering agility, and maximizing efficiency",
   },
   {
+    dateFrom: "Mar 2023",
+    dateTo: "Jul 2023",
+    position: "Web Developer",
+    companyName: "Texium Solutions",
+    companyLocation: "Chicago, Illinois, United States",
+    description:
+      "A prominent global provider of Research and Development (R&D) solutions tailored for the life sciences sector.",
+  },
+  {
     dateFrom: "Sep 2022",
     dateTo: "Dec 2022",
     position: "Web developer",
